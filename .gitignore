@@ -1,0 +1,4 @@
+pigoperch.json
+*.db
+__pycache__/
+ebird_taxonomie.json
